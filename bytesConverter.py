@@ -1,4 +1,4 @@
-main = input("Enter what you have to convert and in what\n For example mb to gb, gb to mb, gb to tb, tb to gb only into this format")
+main = input("Enter what you have to convert and in what\n For example mb to gb, gb to mb, gb to tb, tb to gb only into this format/\n")
 
 
 if main == "mb to gb":
